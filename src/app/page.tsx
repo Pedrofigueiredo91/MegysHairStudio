@@ -1,10 +1,10 @@
 
 export default function Home() {
   const links = [
-    { name: "Book With Fresha", url: "https://www.fresha.com/a/megys-hair-studio-london-254-258-goswell-road-z9fyea5m/booking?allOffer=true&cartId=f3612740-e61c-41cc-8211-f5667965fee5 "},
+    { name: "Book With Fresha", url: "https://www.fresha.com/a/megys-hair-studio-london-254-258-goswell-road-z9fyea5m/all-offer?menu=true&pId=524358"},
     { name: "Instagram", url: "https://www.instagram.com/megyshairstudio/?hl=en" },
     { name: "Contact me on WhatsApp", url: "https://wa.me/447507711655" },
-    { name: "Leave me a review on Google", url: "https://www.google.com/search?q=megys+hair+studio+london+reviews" },
+    { name: "Leave me a review on Google", url: "https://g.page/r/CeMvrK03mXP9EAE/review" },
   ];
 
   return (
