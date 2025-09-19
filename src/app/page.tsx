@@ -16,7 +16,7 @@ export default function Home() {
           className="profile-image"
         />
         <p className="studio-desc">
-          Welcome! Book your appointment, follow us, and explore our work.
+          Welcome! Book your appointment, follow me, and explore my work.
         </p>
       </section>
       <section className="links-section">
